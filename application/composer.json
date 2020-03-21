@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../library"
+        }
+    ],
+    "require": {
+        "devdungeon/example": "*"
+    }
+
+}

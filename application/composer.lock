@@ -1,0 +1,40 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "101bf968b6f1ef90f33510eefb8237fc",
+    "packages": [
+        {
+            "name": "devdungeon/example",
+            "version": "1.0.0",
+            "dist": {
+                "type": "path",
+                "url": "../library",
+                "reference": "d7867103895449871b685001164b30289705d3f2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "DevDungeon\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "John Leon",
+                    "email": "nanodano@devdungeon.com"
+                }
+            ],
+            "description": "An example PHP composer package"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
