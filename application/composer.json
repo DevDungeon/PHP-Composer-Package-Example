@@ -6,7 +6,7 @@
         }
     ],
     "require": {
-        "devdungeon/example": "*"
+        "devdungeon/example": "1.0.*"
     }
 
 }

@@ -21,4 +21,4 @@ echo $object1->something;
 
 use \DevDungeon\MyClass;
 $object2 = new MyClass();
-$my_object->say_hello();
+$object2->say_hello();

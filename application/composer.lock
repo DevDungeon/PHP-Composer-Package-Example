@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "101bf968b6f1ef90f33510eefb8237fc",
+    "content-hash": "14136b2a1e253261dba85756e3c50de1",
     "packages": [
         {
             "name": "devdungeon/example",
@@ -12,7 +12,7 @@
             "dist": {
                 "type": "path",
                 "url": "../library",
-                "reference": "d7867103895449871b685001164b30289705d3f2"
+                "reference": "4411e84b01bcdda68c88c12c7c0671ac9982e43b"
             },
             "type": "library",
             "autoload": {
